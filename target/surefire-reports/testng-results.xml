@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="pack.GoogleTest" duration-ms="6309" started-at="2015-09-15T12:39:15Z" finished-at="2015-09-15T12:39:22Z">
+  <suite name="pack.GoogleTest" duration-ms="15099" started-at="2015-10-16T11:13:47Z" finished-at="2015-10-16T11:14:02Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="6309" started-at="2015-09-15T12:39:15Z" finished-at="2015-09-15T12:39:22Z">
+    <test name="Command line test" duration-ms="15099" started-at="2015-10-16T11:13:47Z" finished-at="2015-10-16T11:14:02Z">
       <class name="pack.GoogleTest">
-        <test-method status="PASS" signature="openGoogle()" name="openGoogle" duration-ms="6296" started-at="2015-09-15T12:39:15Z" finished-at="2015-09-15T12:39:22Z">
+        <test-method status="PASS" signature="openGoogle()" name="openGoogle" duration-ms="15084" started-at="2015-10-16T11:13:47Z" finished-at="2015-10-16T11:14:02Z">
         </test-method>
       </class>
     </test>

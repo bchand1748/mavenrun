@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="BKUSL-6QBN7W1" name="pack.GoogleTest" tests="1" failures="0" timestamp="15 Sep 2015 16:39:22 GMT" time="6.309" errors="0">
-  <testcase name="openGoogle" time="6.296" classname="pack.GoogleTest"/>
+<testsuite hostname="BKUSL-6QBN7W1" name="pack.GoogleTest" tests="1" failures="0" timestamp="16 Oct 2015 15:14:02 GMT" time="15.099" errors="0">
+  <testcase name="openGoogle" time="15.084" classname="pack.GoogleTest"/>
 </testsuite>
