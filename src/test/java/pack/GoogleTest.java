@@ -21,11 +21,11 @@ public class GoogleTest {
 		 WebDriver driver = new ChromeDriver();
 		driver.get("http://www.bk.com");
 	    
-		Thread.sleep(7000);
+		Thread.sleep(15000);
 		
 		driver.quit();
 	     
-	//tracking changes  
+	//comment  
 	}
 
 
